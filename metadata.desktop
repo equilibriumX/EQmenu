@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=EQMenu
-Comment=A simple fullscreen launcher menu (SimpleMenu fork)
+Comment=A simple fullscreen launcher menu (SimpleMenu fork), customized to launch applications on EQuilibrium.
 
 Type=Service
 Icon=start-here-kde
